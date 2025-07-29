@@ -9,4 +9,15 @@ Task 1: Boston Housing Data – EDA
 - Built classifiers using Logistic Regression and Random Forest
 - Achieved 100% accuracy on test data
 
+Task 3: Stock Price Forecasting using Machine Learning
+- Loaded and preprocessed historical stock price dataset (AAPL).
+
+- Visualized stock trends and moving averages using matplotlib.
+
+- Built a Linear Regression model to forecast closing prices.
+
+- Predicted the next 30 days of AAPL closing prices.
+
+- Compared actual vs. predicted prices using line plots.
+
 
